@@ -3,4 +3,4 @@ def sum():
     b = 20
     return a+b
 
-print(sum())
+print("the sum of two number is "+sum())
